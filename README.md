@@ -20,6 +20,6 @@ I architect production applications with centralized identity, event-driven API 
 ### 📌 Projects
 *— coming soon —*
 
-### 📫
+### 📫 Get in Touch!
 - [LinkedIn](https://linkedin.com/in/scottryanchristian)
 - [Website](https://scottrchristian.com)
