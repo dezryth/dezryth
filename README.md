@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey, I'm Scott
 
-<!--
-**dezryth/dezryth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer** building modular, observable, cloud-native systems.
 
-Here are some ideas to get you started:
+I architect production applications with centralized identity, event-driven API integrations, and distributed job scheduling — currently focused on deepening AWS and microservices expertise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus
+- AWS cloud services (EC2, Lambda, ECS, DynamoDB)
+- Microservice decomposition patterns
+- Java/Spring Boot (expanding from .NET/C#)
+- Docker & containerized deployments
+- System design for distributed systems
+
+### 🛠️ Stack
+**Backend:** C# / .NET Core, ASP.NET, REST APIs, SQL Server, Entity Framework  
+**Frontend:** React, Angular, TypeScript  
+**Cloud:** AWS (in progress), Docker, Azure DevOps, CI/CD  
+**Practices:** Full lifecycle ownership, structured observability, event-driven architecture
+
+### 📌 Projects
+*— coming soon —*
+
+### 📫
+- [LinkedIn](https://linkedin.com/in/scottryanchristian)
+- [Website](https://scottrchristian.com)
